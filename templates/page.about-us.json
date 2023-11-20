@@ -1,0 +1,511 @@
+{
+  "sections": {
+    "breadcrumbs": {
+      "type": "breadcrumbs",
+      "disabled": true,
+      "settings": {
+        "hide_mobile": false
+      }
+    },
+    "166005794226b48f03": {
+      "type": "section-slideshow",
+      "blocks": {
+        "166005794296ae0ec5-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/banner1.jpg",
+            "layout": "background",
+            "overlay_opacity": 0,
+            "color_palette": "black",
+            "button_color_palette": "dark",
+            "text_position": "text-center",
+            "title_size": "size-50",
+            "title": "What is Lorem Ipsum",
+            "text": "<p><strong>Lorem Ipsum <\/strong>is simply dummy text of the printing and typesetting industry. <\/p>",
+            "link_text": "Button",
+            "link_url": "shopify:\/\/collections\/all",
+            "show_link": false,
+            "title_size_mobile": "mobile-size-18"
+          }
+        },
+        "baf0e032-4e0c-424f-9c99-edd5b6d69d41": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/banner2.jpg",
+            "layout": "background",
+            "overlay_opacity": 0,
+            "color_palette": "black",
+            "button_color_palette": "dark",
+            "text_position": "text-center",
+            "title_size": "size-50",
+            "title": "What is Lorem Ipsum",
+            "text": "<p><strong>Lorem Ipsum <\/strong>is simply dummy text of the printing and typesetting industry. <\/p>",
+            "link_text": "Button",
+            "link_url": "shopify:\/\/collections\/all",
+            "show_link": false,
+            "title_size_mobile": "mobile-size-18"
+          }
+        },
+        "179478b3-8530-4a07-9145-22b7ae137bc9": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/banner3.jpg",
+            "layout": "background",
+            "overlay_opacity": 0,
+            "color_palette": "black",
+            "button_color_palette": "dark",
+            "text_position": "text-center",
+            "title_size": "size-50",
+            "title": "What is Lorem Ipsum",
+            "text": "<p><strong>Lorem Ipsum <\/strong>is simply dummy text of the printing and typesetting industry. <\/p>",
+            "link_text": "Button",
+            "link_url": "shopify:\/\/collections\/all",
+            "show_link": false,
+            "title_size_mobile": "mobile-size-18"
+          }
+        }
+      },
+      "block_order": [
+        "166005794296ae0ec5-0",
+        "baf0e032-4e0c-424f-9c99-edd5b6d69d41",
+        "179478b3-8530-4a07-9145-22b7ae137bc9"
+      ],
+      "settings": {
+        "height": "s",
+        "width": "wide",
+        "autoplay": false,
+        "autoplay_seconds": 3,
+        "enable_controls": false,
+        "height_mobile": "m",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30
+      }
+    },
+    "16600579701b9ea466": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "166005796961cc60d8-0": {
+          "type": "title",
+          "settings": {
+            "title": "Roses",
+            "title_size": "h2"
+          }
+        },
+        "166005796961cc60d8-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image and tell your customers something about this product, collection, blogpost or a promotion.<\/p>"
+          }
+        },
+        "usp_1": {
+          "type": "usp",
+          "settings": {
+            "usp": "<p>Tell a unique detail about this image<\/p>"
+          }
+        },
+        "2f14301a-076b-48a9-9be0-2874b65ba116": {
+          "type": "usp",
+          "settings": {
+            "usp": "<p>Tell a unique detail about this image<\/p>"
+          }
+        },
+        "56043c5a-c9ab-4c60-9d35-84851bcdc831": {
+          "type": "usp",
+          "settings": {
+            "usp": "<p>Tell a unique detail about this image<\/p>"
+          }
+        },
+        "usp_2": {
+          "type": "usp",
+          "settings": {
+            "usp": "<p>Tell a unique detail about this image<\/p>"
+          }
+        },
+        "usp_3": {
+          "type": "usp",
+          "settings": {
+            "usp": "<p>Tell a unique detail about this image<\/p>"
+          }
+        },
+        "166005796961cc60d8-3": {
+          "type": "buttons",
+          "settings": {
+            "link_text_1": "Beställ eller läs mer",
+            "link_url_1": "\/",
+            "button_color_palette_1": "dark",
+            "link_text_2": "",
+            "link_url_2": "",
+            "button_color_palette_2": "light",
+            "show_link": false
+          }
+        },
+        "d0631089-9ea0-4690-9ec0-17fcad310195": {
+          "type": "buttons",
+          "settings": {
+            "link_text_1": "Kontakta oss",
+            "link_url_1": "\/",
+            "button_color_palette_1": "accent",
+            "link_text_2": "",
+            "link_url_2": "",
+            "button_color_palette_2": "light",
+            "show_link": false
+          }
+        },
+        "2ca764df-0648-472d-9034-37265ddef0d4": {
+          "type": "title",
+          "settings": {
+            "title": "Vill du ha hjälp att göra en beställning?",
+            "title_size": "h2"
+          }
+        },
+        "c857d93a-2c73-4e62-bbef-d7a130240483": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Ring oss på<strong>010-18 88 000<\/strong><\/p><p>eller <strong>chatta <\/strong>med oss direkt på sidan.<\/p><p><em>Vardagar 08-12, 13-17, Lördagar 09-12<\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "166005796961cc60d8-0",
+        "166005796961cc60d8-1",
+        "usp_1",
+        "2f14301a-076b-48a9-9be0-2874b65ba116",
+        "56043c5a-c9ab-4c60-9d35-84851bcdc831",
+        "usp_2",
+        "usp_3",
+        "166005796961cc60d8-3",
+        "d0631089-9ea0-4690-9ec0-17fcad310195",
+        "2ca764df-0648-472d-9034-37265ddef0d4",
+        "c857d93a-2c73-4e62-bbef-d7a130240483"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/img2.jpg",
+        "overlay_opacity": 0,
+        "color_palette": "white",
+        "layout": "image-left",
+        "text_position": "text-start",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30
+      }
+    },
+    "7cea311f-4034-4a6d-9658-e5db6c8f58f3": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "9794b943-19bb-4e0c-b9aa-3fec29dd17d6": {
+          "type": "title",
+          "settings": {
+            "title": "Roses",
+            "title_size": "h2"
+          }
+        },
+        "7610ea05-6f17-421a-9997-9dbea821de0d": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image and tell your customers something about this product, collection, blogpost or a promotion.<\/p>"
+          }
+        },
+        "a59e07e2-e8a4-4f7b-b82f-60450b3c11c3": {
+          "type": "usp",
+          "settings": {
+            "usp": "<p>Tell a unique detail about this image<\/p>"
+          }
+        },
+        "35b60a42-bbf5-4379-9b7c-cbdee4717af7": {
+          "type": "usp",
+          "settings": {
+            "usp": "<p>Tell a unique detail about this image<\/p>"
+          }
+        },
+        "48cc05a9-9c18-457d-8e78-b08605213170": {
+          "type": "usp",
+          "settings": {
+            "usp": "<p>Tell a unique detail about this image<\/p>"
+          }
+        },
+        "e050ea65-3886-4a90-9836-45baa17e3585": {
+          "type": "usp",
+          "settings": {
+            "usp": "<p>Tell a unique detail about this image<\/p>"
+          }
+        },
+        "44b09d1b-5a33-4fa7-ad1d-28bd06391861": {
+          "type": "usp",
+          "settings": {
+            "usp": "<p>Tell a unique detail about this image<\/p>"
+          }
+        },
+        "409a469c-3a0b-4bf3-83bd-81de9d1a028e": {
+          "type": "buttons",
+          "settings": {
+            "link_text_1": "Beställ eller läs mer",
+            "link_url_1": "\/",
+            "button_color_palette_1": "dark",
+            "link_text_2": "",
+            "link_url_2": "",
+            "button_color_palette_2": "light",
+            "show_link": false
+          }
+        },
+        "18ffa208-b084-41df-a88b-46f4642b7ada": {
+          "type": "buttons",
+          "settings": {
+            "link_text_1": "Kontakta oss",
+            "link_url_1": "\/",
+            "button_color_palette_1": "accent",
+            "link_text_2": "",
+            "link_url_2": "",
+            "button_color_palette_2": "light",
+            "show_link": false
+          }
+        },
+        "b30d7859-452d-464b-9264-4c3cee37e7b8": {
+          "type": "title",
+          "settings": {
+            "title": "Vill du ha hjälp att göra en beställning?",
+            "title_size": "h2"
+          }
+        },
+        "89775c69-4993-4b69-991b-478d03382991": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Ring oss på<strong>010-18 88 000<\/strong><\/p><p>eller <strong>chatta <\/strong>med oss direkt på sidan.<\/p><p><em>Vardagar 08-12, 13-17, Lördagar 09-12<\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "9794b943-19bb-4e0c-b9aa-3fec29dd17d6",
+        "7610ea05-6f17-421a-9997-9dbea821de0d",
+        "a59e07e2-e8a4-4f7b-b82f-60450b3c11c3",
+        "35b60a42-bbf5-4379-9b7c-cbdee4717af7",
+        "48cc05a9-9c18-457d-8e78-b08605213170",
+        "e050ea65-3886-4a90-9836-45baa17e3585",
+        "44b09d1b-5a33-4fa7-ad1d-28bd06391861",
+        "409a469c-3a0b-4bf3-83bd-81de9d1a028e",
+        "18ffa208-b084-41df-a88b-46f4642b7ada",
+        "b30d7859-452d-464b-9264-4c3cee37e7b8",
+        "89775c69-4993-4b69-991b-478d03382991"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/img2.jpg",
+        "overlay_opacity": 0,
+        "color_palette": "white",
+        "layout": "image-right",
+        "text_position": "text-start",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30
+      }
+    },
+    "ca61d989-a925-4484-bdc7-3f296c6ac07d": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "3e22d4fc-a59f-492a-8394-ee8771e8a0cc": {
+          "type": "title",
+          "settings": {
+            "title": "Roses",
+            "title_size": "h2"
+          }
+        },
+        "af27d278-658a-4777-9ecf-a76990114bf3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image and tell your customers something about this product, collection, blogpost or a promotion.<\/p>"
+          }
+        },
+        "893c571d-fd33-4d83-975a-1f76e7a4ad38": {
+          "type": "usp",
+          "settings": {
+            "usp": "<p>Tell a unique detail about this image<\/p>"
+          }
+        },
+        "1e5699b0-b42e-4601-85ff-062b815f69fd": {
+          "type": "usp",
+          "settings": {
+            "usp": "<p>Tell a unique detail about this image<\/p>"
+          }
+        },
+        "d06bd7a0-ada0-4f85-8966-413e47a549b3": {
+          "type": "usp",
+          "settings": {
+            "usp": "<p>Tell a unique detail about this image<\/p>"
+          }
+        },
+        "fdefacd0-dd3b-499e-871c-fc876e8453bc": {
+          "type": "usp",
+          "settings": {
+            "usp": "<p>Tell a unique detail about this image<\/p>"
+          }
+        },
+        "972c4ccd-b7f1-4323-a27d-a0301eea7c76": {
+          "type": "usp",
+          "settings": {
+            "usp": "<p>Tell a unique detail about this image<\/p>"
+          }
+        },
+        "34333b67-4763-40ad-a6af-109aa85bc9e0": {
+          "type": "buttons",
+          "settings": {
+            "link_text_1": "Beställ eller läs mer",
+            "link_url_1": "\/",
+            "button_color_palette_1": "dark",
+            "link_text_2": "",
+            "link_url_2": "",
+            "button_color_palette_2": "light",
+            "show_link": false
+          }
+        },
+        "11c26f6a-718e-4c75-9cd8-18443adfc17b": {
+          "type": "buttons",
+          "settings": {
+            "link_text_1": "Kontakta oss",
+            "link_url_1": "\/",
+            "button_color_palette_1": "accent",
+            "link_text_2": "",
+            "link_url_2": "",
+            "button_color_palette_2": "light",
+            "show_link": false
+          }
+        },
+        "6e518cf1-d694-4a66-bd26-297e124c9199": {
+          "type": "title",
+          "settings": {
+            "title": "Vill du ha hjälp att göra en beställning?",
+            "title_size": "h2"
+          }
+        },
+        "036cf871-3ba1-421c-bb9c-fb9ebd2aea84": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Ring oss på<strong>010-18 88 000<\/strong><\/p><p>eller <strong>chatta <\/strong>med oss direkt på sidan.<\/p><p><em>Vardagar 08-12, 13-17, Lördagar 09-12<\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "3e22d4fc-a59f-492a-8394-ee8771e8a0cc",
+        "af27d278-658a-4777-9ecf-a76990114bf3",
+        "893c571d-fd33-4d83-975a-1f76e7a4ad38",
+        "1e5699b0-b42e-4601-85ff-062b815f69fd",
+        "d06bd7a0-ada0-4f85-8966-413e47a549b3",
+        "fdefacd0-dd3b-499e-871c-fc876e8453bc",
+        "972c4ccd-b7f1-4323-a27d-a0301eea7c76",
+        "34333b67-4763-40ad-a6af-109aa85bc9e0",
+        "11c26f6a-718e-4c75-9cd8-18443adfc17b",
+        "6e518cf1-d694-4a66-bd26-297e124c9199",
+        "036cf871-3ba1-421c-bb9c-fb9ebd2aea84"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/img2.jpg",
+        "overlay_opacity": 0,
+        "color_palette": "white",
+        "layout": "image-left",
+        "text_position": "text-start",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30
+      }
+    },
+    "1660058006badb14d4": {
+      "type": "section-logo-list",
+      "blocks": {
+        "166005800624ee1e13-0": {
+          "type": "logo",
+          "settings": {
+            "image_svg": "",
+            "link": ""
+          }
+        },
+        "166005800624ee1e13-1": {
+          "type": "logo",
+          "settings": {
+            "image_svg": "",
+            "link": ""
+          }
+        },
+        "166005800624ee1e13-2": {
+          "type": "logo",
+          "settings": {
+            "image_svg": "",
+            "link": ""
+          }
+        },
+        "166005800624ee1e13-3": {
+          "type": "logo",
+          "settings": {
+            "image_svg": "",
+            "link": ""
+          }
+        },
+        "166005800624ee1e13-4": {
+          "type": "logo",
+          "settings": {
+            "image_svg": "",
+            "link": ""
+          }
+        },
+        "166005800624ee1e13-5": {
+          "type": "logo",
+          "settings": {
+            "image_svg": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "166005800624ee1e13-0",
+        "166005800624ee1e13-1",
+        "166005800624ee1e13-2",
+        "166005800624ee1e13-3",
+        "166005800624ee1e13-4",
+        "166005800624ee1e13-5"
+      ],
+      "disabled": true,
+      "settings": {
+        "number_of_items": 4,
+        "text_alignment": "start",
+        "title_size": "h1",
+        "title": "Brand logo slider",
+        "link_text": "Button",
+        "link_url": "",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30
+      }
+    },
+    "main-page": {
+      "type": "main-page",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "title_size": "h2"
+          }
+        },
+        "content": {
+          "type": "content",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "content"
+      ],
+      "disabled": true,
+      "settings": {
+        "max_width": 980,
+        "content_alignment": "start",
+        "text_alignment": "start",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30
+      }
+    }
+  },
+  "order": [
+    "breadcrumbs",
+    "166005794226b48f03",
+    "16600579701b9ea466",
+    "7cea311f-4034-4a6d-9658-e5db6c8f58f3",
+    "ca61d989-a925-4484-bdc7-3f296c6ac07d",
+    "1660058006badb14d4",
+    "main-page"
+  ]
+}

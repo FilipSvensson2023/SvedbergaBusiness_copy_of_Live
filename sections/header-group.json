@@ -1,0 +1,79 @@
+{
+  "type": "header",
+  "name": "t:static_sections.header.name",
+  "sections": {
+    "announcement": {
+      "type": "announcement-bar",
+      "disabled": true,
+      "settings": {
+        "color_palette": "dark",
+        "text": "<p>🌿<strong> Vi levererar till hela Skandinavien <\/strong>🇸🇪 🇩🇰 🇳🇴 🇫🇮<\/p>"
+      }
+    },
+    "header": {
+      "type": "header",
+      "blocks": {
+        "header-block-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "show_mobile": false,
+            "button_menu": "main-menu",
+            "button_color": "accent"
+          }
+        }
+      },
+      "block_order": [
+        "header-block-button-1"
+      ],
+      "settings": {
+        "layout": "layout_3",
+        "header_width": "boxed",
+        "top_bar_color": "dark_gradient",
+        "header_color": "white",
+        "search_color": "black",
+        "menubar_color": "dark",
+        "logo": "shopify:\/\/shop_images\/Svedberga_logo_bla_c4eef82c-6d1f-4e8b-81be-0787d3b34578.png",
+        "logo_width": 230,
+        "svg_logo": "",
+        "show_top_bar": false,
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "navbar_menu_item_text": "",
+        "navbar_menu_item_link": "",
+        "enable_usp_slider": false,
+        "enable_usp_slider_arrows": true,
+        "enable_usp_slider_autoplay": true,
+        "usp_slider_autoplay_seconds": 5,
+        "enable_sticky_header": true,
+        "sticky": "sticky-menu",
+        "cart_icon": "cart|e903",
+        "cart_icon_color": "dark",
+        "menubar_menu": "asr-menu",
+        "menu_layout": "dropdown",
+        "show_dropdown_images": true,
+        "show_dropdown_images_autofill": true,
+        "menubar_center": true,
+        "menubar_divide_evenly": false,
+        "main_menu_items_clickable": false,
+        "menubar_caps": false,
+        "sale_highlight": false,
+        "menu_font": "title",
+        "menu_items_limit": 15,
+        "enable_socials": true,
+        "extra_image": "shopify:\/\/shop_images\/Jordbruksverket_RGB.jpg",
+        "extra_image_width": 150,
+        "extra_image_svg": "",
+        "extra_image_link": "",
+        "disable_online_store": false,
+        "logo_width_mobile": 140,
+        "mobile_svg_logo": "",
+        "search_compact_mobile": false
+      }
+    }
+  },
+  "order": [
+    "announcement",
+    "header"
+  ]
+}

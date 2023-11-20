@@ -1,0 +1,513 @@
+{
+  "sections": {
+    "4dba0c09-6fee-4b4b-b48f-3454ce72c686": {
+      "type": "section-usp-bar",
+      "blocks": {
+        "template--18999403053400__4dba0c09-6fee-4b4b-b48f-3454ce72c686-1684834565cf61cb86-0": {
+          "type": "usp",
+          "settings": {
+            "usp": "<p><strong>Svenskodlade växter sedan 2008 🇸🇪<\/strong><\/p>"
+          }
+        },
+        "template--18999403053400__4dba0c09-6fee-4b4b-b48f-3454ce72c686-1684834565cf61cb86-1": {
+          "type": "usp",
+          "settings": {
+            "usp": "<p><strong>Snabba och säkra leveranser med Post Nord<\/strong><\/p>"
+          }
+        },
+        "template--18999403053400__4dba0c09-6fee-4b4b-b48f-3454ce72c686-1684834565cf61cb86-2": {
+          "type": "usp",
+          "settings": {
+            "usp": "<p><strong>Fler än 54.000 nöjda kunder sedan 2008<\/strong>★★★★★<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18999403053400__4dba0c09-6fee-4b4b-b48f-3454ce72c686-1684834565cf61cb86-0",
+        "template--18999403053400__4dba0c09-6fee-4b4b-b48f-3454ce72c686-1684834565cf61cb86-1",
+        "template--18999403053400__4dba0c09-6fee-4b4b-b48f-3454ce72c686-1684834565cf61cb86-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_palette": "light",
+        "layout": "slider",
+        "autoplay": true,
+        "autoplay_seconds": 3,
+        "show_arrows": true,
+        "spacing_desktop": 0,
+        "spacing_mobile": 0
+      }
+    },
+    "1660291186859914cb": {
+      "type": "section-usp-bar",
+      "blocks": {
+        "166029118628eefa48-0": {
+          "type": "usp",
+          "settings": {
+            "usp": "<h4><strong>Extraöppet i telefonsupporten: 08:00 - 20:00, Ring 010-188 80 00<\/strong><\/h4>"
+          }
+        }
+      },
+      "block_order": [
+        "166029118628eefa48-0"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_palette": "dark",
+        "layout": "rows",
+        "autoplay": false,
+        "autoplay_seconds": 3,
+        "show_arrows": false,
+        "spacing_desktop": 0,
+        "spacing_mobile": 0
+      }
+    },
+    "7d34f240-4671-4b06-bef2-631cdbb3697b": {
+      "type": "section-slideshow",
+      "blocks": {
+        "template--18999403053400__7d34f240-4671-4b06-bef2-631cdbb3697b-1684832103d2019286-0": {
+          "type": "slide",
+          "settings": {
+            "layout": "background",
+            "overlay_opacity": 0,
+            "color_palette": "black",
+            "button_color_palette": "dark",
+            "video": "shopify:\/\/files\/videos\/Filmklipp odling.mp4",
+            "text_position": "text-center",
+            "title_size": "size-50",
+            "title": "Välkommen till Svedberga Plantskola",
+            "text": "<p><strong>Ett av Sveriges största utbud av kvalitetsväxter sedan 2007<\/strong><\/p>",
+            "link_text": "Läs vår historia här",
+            "link_url": "shopify:\/\/collections\/all",
+            "show_link": false,
+            "title_size_mobile": "mobile-size-18"
+          }
+        },
+        "be4ba79c-98cf-4a0a-8352-6e8cab71d0e3": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/banner2.jpg",
+            "layout": "background",
+            "overlay_opacity": 15,
+            "color_palette": "black",
+            "button_color_palette": "dark",
+            "video": "shopify:\/\/files\/videos\/Namnlös design.mp4",
+            "text_position": "text-center",
+            "title_size": "size-50",
+            "title": "Vårnyheter 2024",
+            "text": "<p><strong>Vi har lanserat vårens nyheter<\/strong><\/p>",
+            "link_text": "Till sortimentet",
+            "link_url": "shopify:\/\/collections\/all",
+            "show_link": false,
+            "title_size_mobile": "mobile-size-18"
+          }
+        }
+      },
+      "block_order": [
+        "template--18999403053400__7d34f240-4671-4b06-bef2-631cdbb3697b-1684832103d2019286-0",
+        "be4ba79c-98cf-4a0a-8352-6e8cab71d0e3"
+      ],
+      "settings": {
+        "height": "m",
+        "width": "wide",
+        "autoplay": false,
+        "autoplay_seconds": 5,
+        "enable_controls": false,
+        "height_mobile": "m",
+        "spacing_desktop": 0,
+        "spacing_mobile": 0
+      }
+    },
+    "ec2d33ba-f50b-4385-8b46-cd6e7f96b477": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "template--18999403053400__ec2d33ba-f50b-4385-8b46-cd6e7f96b477-1684843123c3f984e2-0": {
+          "type": "title",
+          "settings": {
+            "title": "Kvalitet & miljö",
+            "title_size": "h2"
+          }
+        },
+        "template--18999403053400__ec2d33ba-f50b-4385-8b46-cd6e7f96b477-1684843123c3f984e2-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Att våra växter håller högsta kvalitet är grunden för oss och<br\/>våra utbildade och kunniga medarbetare jobbar ständigt med sortimentutveckling och kvalitetssäkring för att alltid garantera våra kunder det bästa i branschen. <\/p><p>Även hållbarhet är väldigt viktigt för oss och genomsyrar vårt tänk i alla  i alla beslut vi tar. Detta är något vi har jobbat med under många år.<\/p>"
+          }
+        },
+        "template--18999403053400__ec2d33ba-f50b-4385-8b46-cd6e7f96b477-1684843123c3f984e2-5": {
+          "type": "buttons",
+          "settings": {
+            "link_text_1": "Läs mer",
+            "link_url_1": "\/",
+            "button_color_palette_1": "dark",
+            "link_text_2": "",
+            "link_url_2": "",
+            "button_color_palette_2": "light",
+            "show_link": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18999403053400__ec2d33ba-f50b-4385-8b46-cd6e7f96b477-1684843123c3f984e2-0",
+        "template--18999403053400__ec2d33ba-f50b-4385-8b46-cd6e7f96b477-1684843123c3f984e2-1",
+        "template--18999403053400__ec2d33ba-f50b-4385-8b46-cd6e7f96b477-1684843123c3f984e2-5"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Namnlos_design_4_949655cd-8032-4f8f-b6d8-23ed55e8b36d.png",
+        "overlay_opacity": 0,
+        "color_palette": "light",
+        "layout": "image-left",
+        "text_position": "text-start",
+        "spacing_desktop": 0,
+        "spacing_mobile": 30
+      }
+    },
+    "633fefe7-8623-4b17-b374-75b8e4f513f2": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "25a9a83b-d7a2-4fca-9249-97cb8a7a1123": {
+          "type": "title",
+          "settings": {
+            "title": "Prisgaranti",
+            "title_size": "h2"
+          }
+        },
+        "4aaa3478-3c02-49de-97fb-0936815a18b1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Vi erbjuder  prisgaranti, så du alltid kan försäkra dig om att du köper de bästa växterna till bäst pris. Vi levererar främst till andra grossister, anläggare, trädgårdsdesigners och plantskolor. <\/p>"
+          }
+        },
+        "499e10f2-f126-4ab3-8a1b-a6c7748143c7": {
+          "type": "buttons",
+          "settings": {
+            "link_text_1": "Läs mer",
+            "link_url_1": "\/",
+            "button_color_palette_1": "dark",
+            "link_text_2": "",
+            "link_url_2": "",
+            "button_color_palette_2": "light",
+            "show_link": false
+          }
+        }
+      },
+      "block_order": [
+        "25a9a83b-d7a2-4fca-9249-97cb8a7a1123",
+        "4aaa3478-3c02-49de-97fb-0936815a18b1",
+        "499e10f2-f126-4ab3-8a1b-a6c7748143c7"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Namnlos_design_3_cd9028cd-ee29-4179-ba85-299a0a5c8753.png",
+        "overlay_opacity": 0,
+        "color_palette": "white",
+        "layout": "image-right",
+        "text_position": "text-start",
+        "spacing_desktop": 0,
+        "spacing_mobile": 30
+      }
+    },
+    "7bee2dfe-07da-4d02-8619-9563464eb4fd": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "6f2814c4-4a81-4594-9601-7e6ef51bfa38": {
+          "type": "title",
+          "settings": {
+            "title": "Snabb leverans & stort utbud",
+            "title_size": "h2"
+          }
+        },
+        "b6259d7d-af57-4cc2-a1e5-8777303a0392": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Vi är stolta över att kunna erbjuda  ett utav Sveriges största utbud av trädgårdsväxter med snabb leverans i hela landet. Vi har god kontakt med vårt fraktbolag och de har god erfarenhet utav växtleveranser.<\/p><p>Vi levererar till hela Skandinavien.<\/p>"
+          }
+        },
+        "8ebdbf2a-0592-40f3-934c-8f1ebc12d7ad": {
+          "type": "buttons",
+          "settings": {
+            "link_text_1": "Läs mer",
+            "link_url_1": "\/",
+            "button_color_palette_1": "dark",
+            "link_text_2": "",
+            "link_url_2": "",
+            "button_color_palette_2": "light",
+            "show_link": false
+          }
+        }
+      },
+      "block_order": [
+        "6f2814c4-4a81-4594-9601-7e6ef51bfa38",
+        "b6259d7d-af57-4cc2-a1e5-8777303a0392",
+        "8ebdbf2a-0592-40f3-934c-8f1ebc12d7ad"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Namnlos_design_5_eeebbda1-961d-4ac1-86b1-21fccd243259.png",
+        "overlay_opacity": 0,
+        "color_palette": "light",
+        "layout": "image-left",
+        "text_position": "text-start",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30
+      }
+    },
+    "7f76a806-8027-4212-9b55-23d9511a6d98": {
+      "type": "section-featured-products",
+      "disabled": true,
+      "settings": {
+        "products": [
+          "abies-alba-pyramidalis",
+          "abies-koreana-2",
+          "abies-koreana-blue-emperor-1",
+          "abies-koreana-brillant-2",
+          "abies-koreana-discus-1",
+          "abies-koreana-molli-2",
+          "abies-koreana-tanja",
+          "abies-koreana-silver-star",
+          "abies-procera-glauca",
+          "abies-procera-glauca-2",
+          "abies-procera-glauca-4",
+          "abies-procera-obrighofen",
+          "acer-arctic-jade®-jack-frost-3"
+        ],
+        "number_of_items": 4,
+        "text_alignment": "start",
+        "title_size": "h2",
+        "title": "Hasselforsjord till Sverges bästa pris!",
+        "text": "<p>Nu med Fri hemleverans.<\/p>",
+        "link_text": "View all",
+        "link_url": "\/",
+        "button_color_palette": "dark",
+        "show_link": false,
+        "enable_quick_buy_desktop": true,
+        "enable_quick_buy_mobile": true,
+        "enable_quick_buy_drawer": true,
+        "enable_quick_buy_qty_selector": true,
+        "enable_color_picker": false,
+        "enable_quick_buy_compact": true,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30
+      }
+    },
+    "1660291161fe2caafb": {
+      "type": "section-gallery",
+      "blocks": {
+        "1660291161347c9da8-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image-gallery1.jpg",
+            "video": "shopify:\/\/files\/videos\/Filmklipp odling.mp4",
+            "overlay_opacity": 20,
+            "color_palette": "black",
+            "button_color_palette": "dark",
+            "text_position": "text-center",
+            "title_size": "h2",
+            "title": "Vad händer hos oss?",
+            "text": "<p>Följ oss på Instagram @svedbergaplantskola.se för att se vad som händer hos oss eller läs vår blogg<\/p>",
+            "link_text": "Blogg",
+            "link_url": "#",
+            "show_link": false,
+            "title_size_mobile": "mobile-size-18"
+          }
+        },
+        "1660291161347c9da8-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/anna.jpg",
+            "overlay_opacity": 20,
+            "color_palette": "black",
+            "button_color_palette": "dark",
+            "text_position": "text-center",
+            "title_size": "h2",
+            "title": "Referenser",
+            "text": "",
+            "link_text": "Våra kunder berättar",
+            "link_url": "#",
+            "show_link": false,
+            "title_size_mobile": "mobile-size-18"
+          }
+        },
+        "1660291161347c9da8-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Namnlos_design_2_7893c869-dd8a-4074-b6f3-a07d8d9ce1b5.png",
+            "overlay_opacity": 20,
+            "color_palette": "black",
+            "button_color_palette": "dark",
+            "text_position": "text-center",
+            "title_size": "h3",
+            "title": "Växtråd & guider",
+            "text": "",
+            "link_text": "Läs mer",
+            "link_url": "#",
+            "show_link": false,
+            "title_size_mobile": "mobile-size-18"
+          }
+        }
+      },
+      "block_order": [
+        "1660291161347c9da8-0",
+        "1660291161347c9da8-1",
+        "1660291161347c9da8-2"
+      ],
+      "settings": {
+        "items_layout": "playful-grid",
+        "items_width": 3,
+        "height": "size-s",
+        "width": "boxed",
+        "space_between": 16,
+        "image_zoom": true,
+        "image_move": false,
+        "show_content_on_hover": false,
+        "content_on_hover_color_palette": "dark",
+        "layout_mobile": "rows",
+        "mobile_height": "size-s",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30
+      }
+    },
+    "981241d6-19d2-4000-8f13-862c4bbad24e": {
+      "type": "section-featured-products",
+      "disabled": true,
+      "settings": {
+        "products": [
+          "abies-alba-pyramidalis",
+          "abies-koreana-2",
+          "abies-koreana-blue-emperor-1",
+          "abies-koreana-brillant-2",
+          "abies-koreana-discus-1",
+          "abies-koreana-molli-2",
+          "abies-koreana-tanja",
+          "abies-koreana-silver-star",
+          "abies-procera-glauca",
+          "abies-procera-glauca-2",
+          "abies-procera-glauca-4",
+          "abies-procera-obrighofen",
+          "acer-arctic-jade®-jack-frost-3"
+        ],
+        "number_of_items": 4,
+        "text_alignment": "start",
+        "title_size": "h2",
+        "title": "",
+        "text": "",
+        "link_text": "",
+        "link_url": "\/",
+        "button_color_palette": "dark",
+        "show_link": false,
+        "enable_quick_buy_desktop": true,
+        "enable_quick_buy_mobile": true,
+        "enable_quick_buy_drawer": true,
+        "enable_quick_buy_qty_selector": true,
+        "enable_color_picker": false,
+        "enable_quick_buy_compact": true,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30
+      }
+    },
+    "2d1a61f9-caa3-4423-8d67-d2be6e5c7e78": {
+      "type": "section-featured-products",
+      "disabled": true,
+      "settings": {
+        "products": [
+          "abies-alba-pyramidalis",
+          "abies-koreana-2",
+          "abies-koreana-blue-emperor-1",
+          "abies-koreana-brillant-2",
+          "abies-koreana-discus-1",
+          "abies-koreana-molli-2",
+          "abies-koreana-tanja",
+          "abies-koreana-silver-star",
+          "abies-procera-glauca",
+          "abies-procera-glauca-2",
+          "abies-procera-glauca-4",
+          "abies-procera-obrighofen",
+          "acer-arctic-jade®-jack-frost-3"
+        ],
+        "number_of_items": 4,
+        "text_alignment": "start",
+        "title_size": "h2",
+        "title": "Populära lagerhägg",
+        "text": "",
+        "link_text": "",
+        "link_url": "\/",
+        "button_color_palette": "dark",
+        "show_link": false,
+        "enable_quick_buy_desktop": true,
+        "enable_quick_buy_mobile": true,
+        "enable_quick_buy_drawer": true,
+        "enable_quick_buy_qty_selector": true,
+        "enable_color_picker": false,
+        "enable_quick_buy_compact": true,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30
+      }
+    },
+    "3955e3f1-f46d-4ae7-8a74-c80087208e7a": {
+      "type": "section-icon-text-blocks",
+      "settings": {
+        "items_width": 4,
+        "text_alignment": "start",
+        "title_size": "h1",
+        "title": "",
+        "text": "",
+        "link_text": "Button",
+        "link_url": "",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "blocks_text_alignment": "center",
+        "blocks_title_size": "h3",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30
+      }
+    },
+    "6c63cb9f-03a1-42e9-96f1-b7bc369d1ea5": {
+      "type": "section-gallery",
+      "settings": {
+        "items_layout": "static-grid",
+        "items_width": 3,
+        "height": "size-s",
+        "width": "boxed",
+        "space_between": 16,
+        "image_zoom": true,
+        "image_move": false,
+        "show_content_on_hover": false,
+        "content_on_hover_color_palette": "dark",
+        "layout_mobile": "rows",
+        "mobile_height": "size-s",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30
+      }
+    },
+    "1ae0de2f-c4ed-49c0-82ad-a72764c5375a": {
+      "type": "section-newsletter",
+      "settings": {
+        "overlay_opacity": 0,
+        "color_palette": "dark",
+        "button_color_palette": "accent",
+        "width": "wide",
+        "title_size": "h1",
+        "title": "Missa inga erbjudanden",
+        "text": "<p>Prenumerera på vårt nyhetsbrev<\/p>",
+        "link_text": "Prenumerera",
+        "enable_newsletter_terms_checkbox": false,
+        "newsletter_terms_text": "<p>ddd<\/p>",
+        "spacing_desktop": 0,
+        "spacing_mobile": 0
+      }
+    }
+  },
+  "order": [
+    "4dba0c09-6fee-4b4b-b48f-3454ce72c686",
+    "1660291186859914cb",
+    "7d34f240-4671-4b06-bef2-631cdbb3697b",
+    "ec2d33ba-f50b-4385-8b46-cd6e7f96b477",
+    "633fefe7-8623-4b17-b374-75b8e4f513f2",
+    "7bee2dfe-07da-4d02-8619-9563464eb4fd",
+    "7f76a806-8027-4212-9b55-23d9511a6d98",
+    "1660291161fe2caafb",
+    "981241d6-19d2-4000-8f13-862c4bbad24e",
+    "2d1a61f9-caa3-4423-8d67-d2be6e5c7e78",
+    "3955e3f1-f46d-4ae7-8a74-c80087208e7a",
+    "6c63cb9f-03a1-42e9-96f1-b7bc369d1ea5",
+    "1ae0de2f-c4ed-49c0-82ad-a72764c5375a"
+  ]
+}
